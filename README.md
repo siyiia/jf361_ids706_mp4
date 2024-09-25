@@ -44,5 +44,5 @@ test code
 
 GitHub Actions Matrix
 <p>
-  <img width="714" src="screenshots/github.png" />
+  <img width="300" src="screenshots/github.png" />
 </p>

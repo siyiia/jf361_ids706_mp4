@@ -31,11 +31,11 @@ This project demonstrates the use of GitHub Actions Matrix Build to test a Pytho
 ## Project Demonstration
 Format code
 <p align="center">
-  <img width="958" src="screenshots/format.png" />
+  <img width="300" src="screenshots/format.png" />
 </p>
 lint code
 <p align="center">
-  <img  width="958" src="screenshots/lint.png" />
+  <img  width="300" src="screenshots/lint.png" />
 </p>
 test code
 <p align="center">

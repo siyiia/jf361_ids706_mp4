@@ -6,3 +6,5 @@ format:
 	black *.py
 test:
 	python -m pytest -vv test_*.py
+
+all: install lint format test
